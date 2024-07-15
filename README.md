@@ -26,3 +26,6 @@ To run this project, you need to have Python installed along with the following 
 - pandas
 - numpy
 
+You can install these libraries using pip:
+```bash
+pip install pandas numpy
